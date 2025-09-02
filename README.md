@@ -33,8 +33,11 @@ pip install -r requirements.txt
 Create a .env file or edit config.py with:
 
 GROQ_API_KEY = "your-groq-api-key"
+
 TWILIO_ACCOUNT_SID = "your-twilio-account-sid"
+
 TWILIO_AUTH_TOKEN = "your-twilio-auth-token"
+
 TWILIO_PHONE_NUMBER = "+1xxxxxxxxxx"
 
 ### 5. Run MedBot
